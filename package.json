@@ -1,0 +1,15 @@
+{
+  "name": "file-receiver",
+  "version": "1.0.0",
+  "description": "an http server to receive files pushed from remote client",
+  "main": "fis-receiver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gongruixue",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.0.17",
+    "mkdirp": "^0.5.1"
+  }
+}
